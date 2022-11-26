@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"description": "A first node project",
+	"author": "Yurii Kolecjkin",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
